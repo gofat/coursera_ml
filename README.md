@@ -1,2 +1,2 @@
-#some labs from second course week
-# test
+# Lab works from the HSE Machine leanrning course
+## All lab works, exclude 6 week 
